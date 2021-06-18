@@ -5,9 +5,6 @@
 //TC = O(n)
 
 
-//Issue:
-//Iska bit manipulation wala solution nhi samza. See it later
-
 #include<iostream>
 using namespace std;
 
